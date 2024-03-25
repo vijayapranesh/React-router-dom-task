@@ -20,13 +20,13 @@ const allPrograms = [{
   content:"Data Science Program with offers",
 },{
   id:3,
-  imgURL:"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-768x402.png",
+  imgURL:"https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg",
   content:"Cybersecurity: Zero to Hero Combo Course",
 }]
 
 const fullStackProgram = [{
   id:1,
-  imgURL:"https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+  imgURL:"https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg",
   content:"Top 10 Full-Stack Developer Frameworks in 2024",
 },{
   id:2,
@@ -34,7 +34,7 @@ const fullStackProgram = [{
   content:"7 Best Full-Stack Development Online Courses [2024]",
 },{
   id:3,
-  imgURL:"https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg",
+  imgURL:"https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg",
   content:"Best Web Development Roadmap for Beginners 2024",
 }]
 
@@ -44,7 +44,7 @@ const dataScienceProgram = [{
   content:"Top Product-Based Companies for Data Scientists in 2024",
 },{
   id:2,
-  imgURL:"https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-1536x1024.jpg",
+  imgURL:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8Ts1NYrIV6YXu35_WxCWEvL7228qrSwWgtvrUqBAPA&s",
   content:"How to become a Data Scientist after Mechanical Engineering?",
 },{
   id:3,
@@ -54,7 +54,7 @@ const dataScienceProgram = [{
 
 const cyberSecurityProgram = [{
   id:1,
-  imgURL:"https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+  imgURL:"https://www.springboard.com/blog/wp-content/uploads/2021/06/shutterstock_505066678-scaled-scaled.jpg",
   content:"8 Different Types of Cybersecurity and Threats Involved",
 },{
   id:2,
@@ -62,7 +62,7 @@ const cyberSecurityProgram = [{
   content:"The Ultimate Cybersecurity Roadmap for Beginners",
 },{
   id:3,
-  imgURL:"https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+  imgURL:"https://www.stjohns.edu/sites/default/files/styles/640w/public/2022-05/istock-1296650655.jpg?itok=OvEGcWW4",
   content:"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
 }]
 
